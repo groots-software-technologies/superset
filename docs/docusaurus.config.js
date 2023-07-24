@@ -176,9 +176,9 @@ const config = {
       },
       navbar: {
         logo: {
-          alt: 'Superset Logo',
-          src: '/img/superset-logo-horiz.svg',
-          srcDark: '/img/superset-logo-horiz-dark.svg',
+          alt: 'Groots Logo',
+          src: '/img/groots-logo-horiz.svg',
+          srcDark: '/img/groots-logo-horiz-dark.svg',
         },
         items: [
           {

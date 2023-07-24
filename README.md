@@ -29,7 +29,7 @@ under the License.
 [![Documentation](https://img.shields.io/badge/docs-apache.org-blue.svg)](https://superset.apache.org)
 
 <img
-  src="https://github.com/apache/superset/raw/master/superset-frontend/src/assets/branding/superset-logo-horiz-apache.png"
+  src="https://github.com/apache/superset/raw/master/superset-frontend/src/assets/branding/groots-logo-horiz-apache.png"
   alt="Superset"
   width="500"
 />

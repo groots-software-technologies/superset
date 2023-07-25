@@ -191,9 +191,9 @@ setup(
         "starrocks": ["starrocks>=1.0.0"],
     },
     python_requires="~=3.9",
-    author="Groots Software Foundation",
-    author_email="support@groots.in",
-    url="https://groots.in/",
+    author="Apache Software Foundation",
+    author_email="dev@superset.apache.org",
+    url="https://superset.apache.org/",
     download_url="https://www.apache.org/dist/superset/" + version_string,
     classifiers=[
         "Programming Language :: Python :: 3.9",
